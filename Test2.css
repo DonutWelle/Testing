@@ -3,21 +3,21 @@ body {
 }
 
 h1 {
-    font-family: bahnschrift;
+    font-family: verdana;
     text-align: center;
     color: azure;
     font-size: 50px;
 }
 
 h2 {
-    font-family: bahnschrift;
+    font-family: verdana;
     text-align: center;
     color: azure;
     font-size: 40px;
 }
 
 p {
-    font-family: bahnschrift;
+    font-family: verdana;
     text-align: center;
     color: azure;
     font-size: 20px;
